@@ -78,7 +78,9 @@ console.log(turnHoursToMinutes(movies));
 //console.log(movies);
 //console.log(turnHoursToMinutes(movies));
 // BONUS - Iteration 8: Best yearly score average - Best yearly score average
-function bestYearAvg() {}
+function bestYearAvg(movies) {
+  
+}
 
 
 
